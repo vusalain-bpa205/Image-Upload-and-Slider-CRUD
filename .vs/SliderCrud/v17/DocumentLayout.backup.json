@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|c:\\users\\ll novbe\\onedrive\\desktop\\slidercrud\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|c:\\users\\ll novbe\\onedrive\\desktop\\slidercrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|c:\\users\\ll novbe\\onedrive\\desktop\\slidercrud\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|solutionrelative:models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|c:\\users\\ll novbe\\onedrive\\desktop\\slidercrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|c:\\users\\ll novbe\\onedrive\\desktop\\slidercrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|c:\\users\\ll novbe\\onedrive\\desktop\\slidercrud\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|c:\\users\\ll novbe\\onedrive\\desktop\\slidercrud\\extensions\\fileuploadextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|solutionrelative:extensions\\fileuploadextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|c:\\users\\ll novbe\\onedrive\\desktop\\slidercrud\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|c:\\users\\ll novbe\\onedrive\\desktop\\slidercrud\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|solutionrelative:areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|c:\\users\\ll novbe\\onedrive\\desktop\\slidercrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|c:\\users\\ll novbe\\onedrive\\desktop\\slidercrud\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|c:\\users\\ll novbe\\onedrive\\desktop\\slidercrud\\migrations\\20260506093032_vs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE8B3E2-7CE0-4CDC-8A25-FE7C47BD7B5D}|SliderCrud.csproj|solutionrelative:migrations\\20260506093032_vs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-06T09:31:09.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260506093032_vs.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\Migrations\\20260506093032_vs.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260506093032_vs.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\Migrations\\20260506093032_vs.cs",
+              "RelativeToolTip": "Migrations\\20260506093032_vs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:30:32.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:21:16.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T08:38:00.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T08:52:05.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileUploadExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\Extensions\\FileUploadExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\FileUploadExtensions.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\Extensions\\FileUploadExtensions.cs",
+              "RelativeToolTip": "Extensions\\FileUploadExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T08:51:22.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\Models\\Slider.cs",
+              "RelativeToolTip": "Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T08:45:29.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T08:44:59.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T08:43:48.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T08:52:40.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T08:38:51.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ll novbe\\OneDrive\\Desktop\\SliderCrud\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-06T08:22:19.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
